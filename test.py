@@ -1,4 +1,6 @@
-def myfunc():
-    return 1
+class MyClass:
+    def my_method(self):
+        pass
 
-myfunc()
+
+MyClass().my_method()
